@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-10HD
-http://183.207.248.71/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ
-#EXTINF:-1 ,CCTV-10科教
-http://play.kankanlive.com/live/1698423445959919.m3u8
-#EXTINF:-1 ,CCTV-11戏曲
-http://play.kankanlive.com/live/1698423476198918.m3u8
-#EXTINF:-1 ,CCTV-12HD
-http://183.207.248.71/cntv/live1/1/H265-5500k-1080P-cctv12
-#EXTINF:-1 ,CCTV-12社会与法
-http://play.kankanlive.com/live/1698423511884917.m3u8
 #EXTINF:-1 ,CCTV-13新闻
 http://play.kankanlive.com/live/1698423543275916.m3u8
 #EXTINF:-1 ,CCTV-13新闻
