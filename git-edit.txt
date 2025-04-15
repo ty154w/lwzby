@@ -1,4 +1,18 @@
+
+
+
+
+
+创建新项目：
+1.git init
+2.git add .
+3.git commit -m "first commit"
+4.git branch -M main
+5.git remote add origin https://github.com/ty154w/项目名称.git
+6.git push -u origin main
+
 更新方法：
+0.git remote add origin https://github.com/ty154w/项目名称.git
 1.git branch -M main 或 git branch -M master
 2.git pull --rebase origin main 或 git pull --rebase origin master
 3.git add .
