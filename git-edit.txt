@@ -1,0 +1,6 @@
+更新方法：
+1.git branch -M main 或 git branch -M master
+2.git pull --rebase origin main 或 git pull --rebase origin master
+3.git add .
+4.git commit -m "edit…”
+5.git push -u origin main 或 git push -u origin master
